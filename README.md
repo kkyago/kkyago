@@ -2,7 +2,7 @@
 
 <div align="left">
   
-![](https://lastfm-widget-six.vercel.app/api/)
+![](https://lastfm-widget-six.vercel.app/api/?refresh=1)
   <br>
   
 [![YouTube Music](https://img.shields.io/badge/YT_Music-000000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/@kkyago69)
