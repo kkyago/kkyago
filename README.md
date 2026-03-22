@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="left">
   
 ![](https://lastfm-widget-six.vercel.app/api/?refresh=1)
